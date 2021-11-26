@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/first-react/static/js/main.55e7ca89.chunk.js",
-    "main.js.map": "/first-react/static/js/main.55e7ca89.chunk.js.map",
-    "runtime-main.js": "/first-react/static/js/runtime-main.f103f07b.js",
-    "runtime-main.js.map": "/first-react/static/js/runtime-main.f103f07b.js.map",
-    "static/js/2.bd9fb51e.chunk.js": "/first-react/static/js/2.bd9fb51e.chunk.js",
-    "static/js/2.bd9fb51e.chunk.js.map": "/first-react/static/js/2.bd9fb51e.chunk.js.map",
-    "static/js/3.0f20e9f0.chunk.js": "/first-react/static/js/3.0f20e9f0.chunk.js",
-    "static/js/3.0f20e9f0.chunk.js.map": "/first-react/static/js/3.0f20e9f0.chunk.js.map",
+    "main.css": "/first-react/static/css/main.d98f92f5.chunk.css",
+    "main.js": "/first-react/static/js/main.34688075.chunk.js",
+    "main.js.map": "/first-react/static/js/main.34688075.chunk.js.map",
+    "runtime-main.js": "/first-react/static/js/runtime-main.09e71b7a.js",
+    "runtime-main.js.map": "/first-react/static/js/runtime-main.09e71b7a.js.map",
+    "static/js/2.c04fee73.chunk.js": "/first-react/static/js/2.c04fee73.chunk.js",
+    "static/js/2.c04fee73.chunk.js.map": "/first-react/static/js/2.c04fee73.chunk.js.map",
+    "static/js/3.94cd09c8.chunk.js": "/first-react/static/js/3.94cd09c8.chunk.js",
+    "static/js/3.94cd09c8.chunk.js.map": "/first-react/static/js/3.94cd09c8.chunk.js.map",
     "index.html": "/first-react/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/first-react/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.bd9fb51e.chunk.js.LICENSE.txt": "/first-react/static/js/2.bd9fb51e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/first-react/static/media/logo.6ce24c58.svg"
+    "static/css/main.d98f92f5.chunk.css.map": "/first-react/static/css/main.d98f92f5.chunk.css.map",
+    "static/js/2.c04fee73.chunk.js.LICENSE.txt": "/first-react/static/js/2.c04fee73.chunk.js.LICENSE.txt",
+    "static/media/1.7c9f6a56.gif": "/first-react/static/media/1.7c9f6a56.gif",
+    "static/media/ai_pelo.59b75258.jpg": "/first-react/static/media/ai_pelo.59b75258.jpg",
+    "static/media/nain_feto_rm.62ad52ab.jpg": "/first-react/static/media/nain_feto_rm.62ad52ab.jpg",
+    "static/media/mystyle.css": "/first-react/static/media/pacifico-regular-webfont.f54c17b9.woff2",
+    "static/media/ramos_horta.534aae7c.jpg": "/first-react/static/media/ramos_horta.534aae7c.jpg",
+    "static/media/uma_lisan.bfce2b0b.jpeg": "/first-react/static/media/uma_lisan.bfce2b0b.jpeg",
+    "static/media/xanana.3bd0bac0.jpg": "/first-react/static/media/xanana.3bd0bac0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f103f07b.js",
-    "static/js/2.bd9fb51e.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.55e7ca89.chunk.js"
+    "static/js/runtime-main.09e71b7a.js",
+    "static/js/2.c04fee73.chunk.js",
+    "static/css/main.d98f92f5.chunk.css",
+    "static/js/main.34688075.chunk.js"
   ]
 }
