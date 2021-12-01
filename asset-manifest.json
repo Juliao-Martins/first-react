@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.866e007c.chunk.css",
-    "main.js": "/first-react/static/js/main.ade14f99.chunk.js",
-    "main.js.map": "/first-react/static/js/main.ade14f99.chunk.js.map",
+    "main.css": "/first-react/static/css/main.78d8925a.chunk.css",
+    "main.js": "/first-react/static/js/main.9bbdeab8.chunk.js",
+    "main.js.map": "/first-react/static/js/main.9bbdeab8.chunk.js.map",
     "runtime-main.js": "/first-react/static/js/runtime-main.09e71b7a.js",
     "runtime-main.js.map": "/first-react/static/js/runtime-main.09e71b7a.js.map",
     "static/js/2.c04fee73.chunk.js": "/first-react/static/js/2.c04fee73.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.94cd09c8.chunk.js": "/first-react/static/js/3.94cd09c8.chunk.js",
     "static/js/3.94cd09c8.chunk.js.map": "/first-react/static/js/3.94cd09c8.chunk.js.map",
     "index.html": "/first-react/index.html",
-    "static/css/main.866e007c.chunk.css.map": "/first-react/static/css/main.866e007c.chunk.css.map",
+    "static/css/main.78d8925a.chunk.css.map": "/first-react/static/css/main.78d8925a.chunk.css.map",
     "static/js/2.c04fee73.chunk.js.LICENSE.txt": "/first-react/static/js/2.c04fee73.chunk.js.LICENSE.txt",
     "static/media/1.7c9f6a56.gif": "/first-react/static/media/1.7c9f6a56.gif",
     "static/media/ai_pelo.59b75258.jpg": "/first-react/static/media/ai_pelo.59b75258.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.09e71b7a.js",
     "static/js/2.c04fee73.chunk.js",
-    "static/css/main.866e007c.chunk.css",
-    "static/js/main.ade14f99.chunk.js"
+    "static/css/main.78d8925a.chunk.css",
+    "static/js/main.9bbdeab8.chunk.js"
   ]
 }
