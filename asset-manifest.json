@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.78d8925a.chunk.css",
-    "main.js": "/first-react/static/js/main.9bbdeab8.chunk.js",
-    "main.js.map": "/first-react/static/js/main.9bbdeab8.chunk.js.map",
+    "main.css": "/first-react/static/css/main.f47cc61f.chunk.css",
+    "main.js": "/first-react/static/js/main.d0a43899.chunk.js",
+    "main.js.map": "/first-react/static/js/main.d0a43899.chunk.js.map",
     "runtime-main.js": "/first-react/static/js/runtime-main.09e71b7a.js",
     "runtime-main.js.map": "/first-react/static/js/runtime-main.09e71b7a.js.map",
-    "static/js/2.c04fee73.chunk.js": "/first-react/static/js/2.c04fee73.chunk.js",
-    "static/js/2.c04fee73.chunk.js.map": "/first-react/static/js/2.c04fee73.chunk.js.map",
+    "static/js/2.5c409e5c.chunk.js": "/first-react/static/js/2.5c409e5c.chunk.js",
+    "static/js/2.5c409e5c.chunk.js.map": "/first-react/static/js/2.5c409e5c.chunk.js.map",
     "static/js/3.94cd09c8.chunk.js": "/first-react/static/js/3.94cd09c8.chunk.js",
     "static/js/3.94cd09c8.chunk.js.map": "/first-react/static/js/3.94cd09c8.chunk.js.map",
     "index.html": "/first-react/index.html",
-    "static/css/main.78d8925a.chunk.css.map": "/first-react/static/css/main.78d8925a.chunk.css.map",
-    "static/js/2.c04fee73.chunk.js.LICENSE.txt": "/first-react/static/js/2.c04fee73.chunk.js.LICENSE.txt",
-    "static/media/1.7c9f6a56.gif": "/first-react/static/media/1.7c9f6a56.gif",
-    "static/media/ai_pelo.59b75258.jpg": "/first-react/static/media/ai_pelo.59b75258.jpg",
-    "static/media/capital_dili.420fb7b3.jpg": "/first-react/static/media/capital_dili.420fb7b3.jpg",
-    "static/media/nain_feto_rm.62ad52ab.jpg": "/first-react/static/media/nain_feto_rm.62ad52ab.jpg",
-    "static/media/papa_ii.1420313c.jpg": "/first-react/static/media/papa_ii.1420313c.jpg",
-    "static/media/ramos_horta.534aae7c.jpg": "/first-react/static/media/ramos_horta.534aae7c.jpg",
-    "static/media/tebe_dai.085e41a0.jpg": "/first-react/static/media/tebe_dai.085e41a0.jpg",
-    "static/media/uma_lisan.bfce2b0b.jpeg": "/first-react/static/media/uma_lisan.bfce2b0b.jpeg",
-    "static/media/xanana.3bd0bac0.jpg": "/first-react/static/media/xanana.3bd0bac0.jpg"
+    "static/css/main.f47cc61f.chunk.css.map": "/first-react/static/css/main.f47cc61f.chunk.css.map",
+    "static/js/2.5c409e5c.chunk.js.LICENSE.txt": "/first-react/static/js/2.5c409e5c.chunk.js.LICENSE.txt",
+    "static/media/ai_pelo.0f56b047.jpg": "/first-react/static/media/ai_pelo.0f56b047.jpg",
+    "static/media/capital_dili.f865d60a.jpg": "/first-react/static/media/capital_dili.f865d60a.jpg",
+    "static/media/cristo.243f31f0.jpg": "/first-react/static/media/cristo.243f31f0.jpg",
+    "static/media/crocodile.a982aca6.png": "/first-react/static/media/crocodile.a982aca6.png",
+    "static/media/invasion_1975.d3d2be55.jpg": "/first-react/static/media/invasion_1975.d3d2be55.jpg",
+    "static/media/nain_feto_rm.02ec9408.jpg": "/first-react/static/media/nain_feto_rm.02ec9408.jpg",
+    "static/media/papa_ii.af5db4ba.jpg": "/first-react/static/media/papa_ii.af5db4ba.jpg",
+    "static/media/ramos_horta.b2aed16b.jpg": "/first-react/static/media/ramos_horta.b2aed16b.jpg",
+    "static/media/tebe_dai.7a34db58.jpg": "/first-react/static/media/tebe_dai.7a34db58.jpg",
+    "static/media/uma_lisan.c662f6df.jpeg": "/first-react/static/media/uma_lisan.c662f6df.jpeg",
+    "static/media/xanana.cb0ca7b5.jpg": "/first-react/static/media/xanana.cb0ca7b5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.09e71b7a.js",
-    "static/js/2.c04fee73.chunk.js",
-    "static/css/main.78d8925a.chunk.css",
-    "static/js/main.9bbdeab8.chunk.js"
+    "static/js/2.5c409e5c.chunk.js",
+    "static/css/main.f47cc61f.chunk.css",
+    "static/js/main.d0a43899.chunk.js"
   ]
 }
